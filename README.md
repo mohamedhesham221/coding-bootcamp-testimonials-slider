@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://www.frontendmentor.io/solutions/html-and-css-and-javascript-6rLtyjxNm]
+- Live Site URL: [https://mohamedhesham221.github.io/coding-bootcamp-testimonials-slider/]
 
 
 ### Built with
@@ -41,5 +41,5 @@ i learned that how to create slider with using object and use calc function prop
 
 - Website - [Mohamed Hesham]
 - Frontend Mentor - [@mohamedhesham221](https://www.frontendmentor.io/profile/mohamedhesham221)
-- Linkedin - [@yourusername](https://www.twitter.com/yourusername)
+- Linkedin - [Mohamed Hesham](https://www.linkedin.com/in/mohamed-hesham-b7611618a/)
 
