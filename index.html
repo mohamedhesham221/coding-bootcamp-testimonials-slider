@@ -13,8 +13,8 @@
     <div class="slider-img">
       <img class="profile" src="images/image-tanya.jpg" alt="profile">
       <div class="arrows">
-        <button id="prev" onclick="prevFunc();"></button>
-        <button id="next" onclick="nextFunc();"></button>
+        <button id="prev" onclick="prevFunc();" aria-label="left key"></button>
+        <button id="next" onclick="nextFunc();" aria-label="right key"></button>
       </div>
     </div>
     <div class="slider-quotes">
@@ -63,7 +63,6 @@
           titleEl = document.querySelector(".title"),
           btnNext = document.getElementById("next"),
           btnPrev = document.getElementById("prev");
-
 
       function nextFunc() {
           i++;
